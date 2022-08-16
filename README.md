@@ -1,0 +1,2 @@
+# Infecior_Ransomware_Peaceful
+Infecior is an example of ransomware, a type of malicious software (malware) used by cybercriminals to extort money. Ransomware does this by either encrypting valuable files, so you are unable to read them, or by locking you out of your computer, so you are not able to use it. the author is not responsible for your actions, everything is created in the introduction and no more.
