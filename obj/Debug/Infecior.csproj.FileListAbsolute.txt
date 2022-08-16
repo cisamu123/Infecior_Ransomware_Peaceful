@@ -1,0 +1,13 @@
+D:\Infecior\obj\Debug\Infecior.csproj.AssemblyReference.cache
+D:\Infecior\obj\Debug\Infecior.Form1.resources
+D:\Infecior\obj\Debug\Infecior.Properties.Resources.resources
+D:\Infecior\obj\Debug\Infecior.csproj.GenerateResource.cache
+D:\Infecior\obj\Debug\Infecior.csproj.CoreCompileInputs.cache
+D:\Infecior\bin\Debug\Infecior.exe.config
+D:\Infecior\bin\Debug\Infecior.exe
+D:\Infecior\bin\Debug\Infecior.pdb
+D:\Infecior\obj\Debug\Infecior.exe
+D:\Infecior\obj\Debug\Infecior.pdb
+D:\Infecior\obj\Debug\Infecior.FORMS.Info.resources
+D:\Infecior\obj\Debug\Infecior.FORMS.Rules.resources
+D:\Infecior\obj\Debug\Infecior.exe.manifest

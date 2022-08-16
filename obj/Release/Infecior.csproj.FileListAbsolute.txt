@@ -1,0 +1,10 @@
+D:\Infecior\bin\Release\Infecior.xml
+D:\Infecior\obj\Release\Infecior.FORMS.Info.resources
+D:\Infecior\obj\Release\Infecior.Form1.resources
+D:\Infecior\obj\Release\Infecior.FORMS.Rules.resources
+D:\Infecior\obj\Release\Infecior.Properties.Resources.resources
+D:\Infecior\obj\Release\Infecior.csproj.GenerateResource.cache
+D:\Infecior\obj\Release\Infecior.csproj.CoreCompileInputs.cache
+D:\Infecior\obj\Release\Infecior.exe.manifest
+D:\Infecior\obj\Release\Infecior.exe
+D:\Infecior\obj\Release\Infecior.pdb
